@@ -757,5 +757,8 @@
 	"card.unitUrbanAmbusher.description": "Has +{bonusPower} Power for every Building on the same row.",
 
 	"card.unitUrbanTactician.name": "Urban Tactician",
-	"card.unitUrbanTactician.description": "Your other units that are directly adjacent to a Building have +{bonusPower} Power.<p><i>Doesn't work on buildings.</i>"
+	"card.unitUrbanTactician.description": "Your other units that are directly adjacent to a Building have +{bonusPower} Power.<p><i>Doesn't work on buildings.</i>",
+	
+	"card.heroJealous.name": "Jealous",
+	"card.heroJealous.description": "*Deploy:*\nName a unit, both players discard all copies of those units and draw as many replacements.<p>When Jealous would die it is removed from the game instead."
 }
